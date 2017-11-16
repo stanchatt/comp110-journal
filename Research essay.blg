@@ -1,0 +1,19 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: Research essay.aux
+The style file: ieeetran.bst
+Database file #1: references.bib
+Warning--entry type for "one" isn't style-file defined
+--line 1 of file references.bib
+Warning--entry type for "two" isn't style-file defined
+--line 9 of file references.bib
+Warning--entry type for "three" isn't style-file defined
+--line 17 of file references.bib
+Warning--entry type for "four" isn't style-file defined
+--line 24 of file references.bib
+-- IEEEtran.bst version 1.14 (2015/08/26) by Michael Shell.
+-- http://www.michaelshell.org/tex/ieeetran/bibtex/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+Name 1 in "E. G. Gilbert, D. W. Johnson, and S. S. Keerthi" has a comma at the end for entry two
+while executing---line 2403 of file ieeetran.bst
+
+Done.
+(There was 1 error message)
